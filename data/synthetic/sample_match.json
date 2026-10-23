@@ -1,0 +1,60 @@
+
+{
+  "match_id": "SYN-001",
+  "home_team": "Arsenal",
+  "away_team": "Chelsea",
+  "events": [
+    {
+      "minute": 5,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 7,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 10,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 15,
+      "team": "Arsenal",
+      "type": "shot",
+      "on_target": true,
+      "significant": true,
+      "description": "Arsenal creates an early shot on target"
+    },
+    {
+      "minute": 22,
+      "team": "Chelsea",
+      "type": "shot",
+      "on_target": false
+    },
+    {
+      "minute": 30,
+      "team": "Arsenal",
+      "type": "possession",
+      "duration_seconds": 180
+    },
+    {
+      "minute": 35,
+      "team": "Chelsea",
+      "type": "possession",
+      "duration_seconds": 120
+    },
+    {
+      "minute": 42,
+      "team": "Chelsea",
+      "type": "shot",
+      "on_target": true,
+      "significant": true,
+      "description": "Chelsea responds with a shot on target"
+    }
+  ]
+}

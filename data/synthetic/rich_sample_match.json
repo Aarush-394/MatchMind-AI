@@ -1,0 +1,273 @@
+{
+  "match_id": "SYN-002",
+  "home_team": "Arsenal",
+  "away_team": "Chelsea",
+  "dataset_type": "synthetic",
+  "description": "Fictional match events generated for MatchMind AI testing.",
+  "events": [
+    {
+      "minute": 1,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 4,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 7,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 8,
+      "team": "Arsenal",
+      "type": "possession",
+      "duration_seconds": 150
+    },
+    {
+      "minute": 10,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "type": "shot",
+      "minute": 12,
+      "team": "Arsenal",
+      "on_target": true,
+      "significant": true,
+      "description": "Arsenal records an early shot on target"
+    },
+    {
+      "minute": 13,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": false
+    },
+    {
+      "minute": 16,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 19,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 20,
+      "team": "Chelsea",
+      "type": "possession",
+      "duration_seconds": 110
+    },
+    {
+      "minute": 22,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "type": "shot",
+      "minute": 24,
+      "team": "Chelsea",
+      "on_target": false,
+      "significant": false,
+      "description": "Chelsea attempts a shot off target"
+    },
+    {
+      "minute": 25,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 28,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": false
+    },
+    {
+      "minute": 31,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 32,
+      "team": "Arsenal",
+      "type": "possession",
+      "duration_seconds": 180
+    },
+    {
+      "minute": 34,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 37,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "type": "shot",
+      "minute": 38,
+      "team": "Arsenal",
+      "on_target": true,
+      "significant": true,
+      "description": "Arsenal creates another shot on target"
+    },
+    {
+      "minute": 40,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 43,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": false
+    },
+    {
+      "minute": 45,
+      "team": "Chelsea",
+      "type": "possession",
+      "duration_seconds": 140
+    },
+    {
+      "minute": 46,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 49,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 52,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "type": "shot",
+      "minute": 53,
+      "team": "Chelsea",
+      "on_target": true,
+      "significant": true,
+      "description": "Chelsea responds with a shot on target"
+    },
+    {
+      "minute": 55,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 58,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": false
+    },
+    {
+      "minute": 58,
+      "team": "Chelsea",
+      "type": "possession",
+      "duration_seconds": 160
+    },
+    {
+      "minute": 61,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 64,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 67,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "type": "shot",
+      "minute": 67,
+      "team": "Chelsea",
+      "on_target": false,
+      "significant": false,
+      "description": "Chelsea attempts a late attacking shot"
+    },
+    {
+      "minute": 70,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 72,
+      "team": "Arsenal",
+      "type": "possession",
+      "duration_seconds": 170
+    },
+    {
+      "minute": 73,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": false
+    },
+    {
+      "minute": 76,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 79,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "type": "shot",
+      "minute": 81,
+      "team": "Arsenal",
+      "on_target": true,
+      "significant": true,
+      "description": "Arsenal records a late shot on target"
+    },
+    {
+      "minute": 82,
+      "team": "Chelsea",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 85,
+      "team": "Arsenal",
+      "type": "pass",
+      "completed": true
+    },
+    {
+      "minute": 88,
+      "team": "Arsenal",
+      "type": "possession",
+      "duration_seconds": 100
+    }
+  ]
+}
