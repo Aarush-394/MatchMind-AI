@@ -1,0 +1,10 @@
+
+agent-framework==1.22.0
+agent-framework-core==1.22.0
+streamlit
+pandas
+openai
+python-dotenv
+pytest
+pytest-asyncio
+
