@@ -127,5 +127,3 @@ MatchMind-AI/
 ## Project Goals
 
 MatchMind AI aims to make football analysis more accessible, transparent, and personalized by combining multi-agent orchestration with evidence-based statistics and explainable insights.
-
-**Built
